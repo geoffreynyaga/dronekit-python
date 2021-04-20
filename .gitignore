@@ -13,3 +13,4 @@ vs/.vs/dronekit-python/v14/*.suo
 
 venv/*
 .pytest_cache/*
+htmlcov/*
